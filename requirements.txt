@@ -1,0 +1,10 @@
+# cv2
+opencv-python
+matplotlib
+numpy
+pandas
+scipy
+torch
+torchvision
+
+-e .
